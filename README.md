@@ -1,2 +1,4 @@
-![header](header.jpg)
-### read project stories in cooler-readme
+![header](header.png)
+<p align="center"> 
+    [project stories](cooler-readme.md)
+</p>
