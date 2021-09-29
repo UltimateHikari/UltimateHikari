@@ -1,4 +1,2 @@
 ![header](header.png)
-<p align="center"> 
-    [project stories](cooler-readme.md)
-</p>
+[project stories fyi](cooler-readme.md)
