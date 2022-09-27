@@ -1,8 +1,8 @@
-![header](header.png)
+![header](header-6.png)
 
 ## Things i prefer
 Everything _architecturally complex systems_-related: upgrading, optimizing, creating new ones.  
-Bonus points for situations when I can put to use my knowledge of underlying systems and internals, and futher improve it!
+Bonus points for situations when I can put to use my **knowledge of underlying systems and internals**, and futher improve it!
 ## 🔧 Tech i *believe i know* - check the header
 ## 🌊 Tech i tried at *shallow* level
 ![](https://img.shields.io/badge/C++17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
